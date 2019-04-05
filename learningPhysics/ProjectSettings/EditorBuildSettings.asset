@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e7bc3cfe251a90b4090e8533319776da
+  - enabled: 1
+    path: Assets/Scenes/Easy.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Medium.unity
+    guid: aa9907c8909cfaf48bc62a0367dcd5e2
+  - enabled: 1
+    path: Assets/Scenes/fallingObstacles.unity
+    guid: d6d8cd799b526e244a0c7edb16129beb
+  - enabled: 1
+    path: Assets/Scenes/Projectiles.unity
+    guid: 8da879202b2465145bfc6d53823b8071
+  - enabled: 1
+    path: Assets/Scenes/Thin.unity
+    guid: 8fc986d2c11d4c3479b31a330b43e072
+  - enabled: 1
+    path: Assets/Scenes/dontLookDown.unity
+    guid: 00bcfbfaa2eefda41b23b0509530bd32
+  - enabled: 1
+    path: Assets/Scenes/onYourToes.unity
+    guid: b016f424206a4f64d83236740c52facd
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 4a9160d5126f3b2429fbc41b5bbd25c8
+  m_configObjects: {}
